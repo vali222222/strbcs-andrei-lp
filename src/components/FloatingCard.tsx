@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { ArrowRight, CheckCircle2, Users } from "lucide-react";
 
-const AFFILIATE_LINK = "https://trkio.org/aff_c?offer_id=2691&aff_id=14999&source=star";
+const AFFILIATE_LINK = "https://trkio.org/aff_c?offer_id=2691&aff_id=14999&source=andrei";
 
 const FloatingCard = () => {
   const [activeViewers, setActiveViewers] = useState(65);
